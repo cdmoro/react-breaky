@@ -1,7 +1,8 @@
 # react-breaky
 
+React version of [vue-breaky](https://github.com/teamnovu/vue-breaky)
+
 > Show Tailwind CSS Breakpoints in React
-> React version of [vue-breaky](https://github.com/teamnovu/vue-breaky)
 
 ## TODO
 
