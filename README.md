@@ -5,6 +5,8 @@
 
 ## TODO
 
+- [ ] NPM package
+- [ ] Draggable component
 - [ ] Import TailwindCSS config file (outside src folder)
 
 ## Credits
